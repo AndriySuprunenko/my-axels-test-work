@@ -1,0 +1,36 @@
+:root {
+  --bg-color: #808080;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--bg-color);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  gap: 30px;
+  display: flex;
+  margin: 0 auto;
+  width: fit-content;
+  align-items: center;
+  flex-direction: column;
+}
+
+img {
+  width: 100%;
+}

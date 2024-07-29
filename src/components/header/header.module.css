@@ -1,0 +1,13 @@
+.header {
+  width: 100%;
+  padding: 20px;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 1440px;
+}
+
+.logo {
+  width: 100px;
+}
